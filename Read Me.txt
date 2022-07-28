@@ -1,0 +1,2 @@
+Run Multi_component_IF_estimation_viterbi_snr_simulation.m
+Run real_example_eeg
